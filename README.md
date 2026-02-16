@@ -1,3 +1,8 @@
+# Task 3: SQL for Data Analysis Internship
+
+Submitted by: HIMESH GOWDA K S
+Internship: Data Analyst Internship
+
 # SQL for Data Analysis
 
 ## Objective
